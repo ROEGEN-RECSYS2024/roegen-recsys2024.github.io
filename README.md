@@ -1,80 +1,123 @@
-# roegen-recsys2024.github.io
+---
+layout: page
+title: COLLM2023
+nav_order: 1
+---
 
-# ROEGen@RecSys’24: The 1st International Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommendation Systems
+## Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications.
+<em> A Workshop Colocated with ECML-PKDD in Turin, Italy and Online in September, 2023 </em>
 
-## Abstract
 
-This workshop explores the exciting yet challenging realm of generative models within recommender systems. It highlights their potential to revolutionize personalization, content creation, and user interaction while addressing critical challenges like bias, misinformation, privacy issues, and environmental impacts. The "ROEGen@RecSys" workshop aims to foster a thorough examination of these technologies, discussing strategies to mitigate risks and harness opportunities for ethical and sustainable innovation.
-
-## ACM Reference Format
-
-2024. ROEGen@RecSys’24. The 1st International Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommendation. ACM, New York, NY, USA, 5 pages. https://doi.org/XXXXXXX.XXXXXXX
-
-## Motivation
-
-The integration of Large Language Models (RecLLMs), multimodal foundation models like Gemini, and image generation models such as Sora introduces a myriad of possibilities for recommender systems. These models enhance the personalization capabilities of RS, extend knowledge through interaction, and significantly improve the user experience with dynamic and conversational interfaces. However, they also introduce substantial challenges such as biases and privacy concerns, necessitating a comprehensive discussion on their ethical and practical implications.
-
-## Workshop Themes and Objectives
-
-### 1. **Risks and Challenges**
-   - Focuses on identifying potential risks like misinformation and biases, particularly from advanced image generation models. 
-   - Discusses privacy implications and technical challenges in achieving transparency and user control.
-
-### 2. **Opportunities and Applications**
-   - Highlights the transformative potential of LLMs and generative models in RS, enhancing user interaction and content discoverability.
-   - Explores novel applications across sectors like entertainment, fashion, and healthcare, demonstrating their broad utility.
-
-### 3. **Evaluation and Mitigation**
-   - Dedicated to developing methodologies to assess the efficacy, fairness, and security of these models.
-   - Encourages the creation of new benchmarks and evaluation metrics that provide a comprehensive view of model performance.
-
-## Keynote Speakers
-
-- **Mahesh Sathiamoorthy** (Google DeepMind): Specializes in recommendation models for large-scale systems, blending industrial applications with academic insights.
-- **Atoosa Kasirzadeh and Silvia Milano**: Focus on the ethical implications and philosophical dimensions of AI, exploring generative models from a non-computer science perspective.
-- **Prof. Aixin Sun** (Nanyang Technological University, Singapore): Shares insights into the risks and challenges inherent in GenAI and machine learning.
-
-## Similar Workshops
-
-- **LLMAI@KDD’23**: Focuses on paradigm shifts in AI models, highlighting conversational AI and unified recommendation systems.
-- **WSDM 2024**: Adapts LLMs to meet diverse user needs, emphasizing personalization.
-- **Gen-IR@CIKM’23**: Explores generative models in recommender systems, enhancing user-system interaction paradigms.
-
-## Workshop Schedule (Tentative)
-
-- **09:00** Opening and Welcome
-- **09:15** Introduction of Participants
-- **09:30** Invited Keynote 1
-- **10:30** Break
-- **10:50** Session I: Presentation of Accepted Papers
-- **12:30** Lunch
-- **13:30** Invited Keynote 2
-- **14:30** Session II: Presentation of Accepted Papers
-- **16:10** Break
-- **16:30** Session III: Poster Session and Interactive Discussions
-- **17:30** Final Discussion and Workshop Closure
-
-## Submission Guidelines
-
-- **Full Papers**: Detailed studies and extensive reviews (up to 8 pages, excluding references).
-- **Short Papers**: Preliminary findings and innovative concepts (up to 4 pages, excluding references).
-- **Extended Abstracts**: Initial insights and discussion proposals (2-3 pages, excluding references).
-
-All submissions should be anonymized and formatted according to the specified guidelines, available on the workshop website.
-
-## Organizers
-
-- **Yashar Deldjoo** (Polytechnic University of Bari, Italy): Specializes in trustworthy AI and multimodal systems.
-- **Julian McAuley** (UC San Diego): Focuses on personalized machine learning and developing systems across various domains.
-- **Scott Sanner** (University of Toronto): Researches AI and sequential decision-making in industrial and computer science applications.
-- **Pablo Castells** (Autónoma University of Madrid): Researches information retrieval and recommender systems, focusing on evaluation biases and interactive recommendation.
-- **Shuai Zhang** (Amazon Web Services AI): Works on foundation models and graph machine learning, with contributions to significant projects.
+Large Language Models (LLMs) such as GPT-4 have the potential to revolutionize the
+way we interact with language-based applications in the real world. However, they also
+come with their set of challenges that need to be addressed to ensure their effective
+and ethical use. Especially in real-world Machine Learning applications, LLMs have a
+disruptive potential, but require a carefully designed set of techniques and best
+practices to avoid a surge in compute cost, risks of producing untruthful or harmful
+content, and/or an inefficient utilization of their capabilities.
+This workshop will specifically focus on the opportunities and challenges of LLMs in
+real-world Machine Learning applications and will cover topics such as synthetic data
+generation, model evaluation and testing, fairness, debiasing, cold-start, distillation, and
+prompting. It will also welcome stories of LLM usage in specific applications, such as
+Chat, Search, Recommendations, Personalization, and/or Spoken Language
+Understanding.
 
 ## Important Dates
 
-- **Submission Deadline**: August 5, 2024
-- **Notification of Acceptance**: August 26, 2024
-- **Camera-Ready Submission**: September 9, 2024
-- **Workshop Date**: October 14, 2024
+* **~~Jun 12th~~ ~~Jun 19th~~ Jun 29th:** Paper submission deadline
+* **Jul 12th:** Author notification
+* **Oct 1st:** Camera-ready deadline
+* **Sep 18th:** COLLM 2023 Workshop
 
-This markdown file has been crafted to provide a clear and professional presentation of the upcoming workshop, facilitating its promotion and participation within the academic and industry communities.
+## Invited Speakers
+
+![](images/tbd.png){: width="150"}
+*[Alessandro Moschitti](https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en), Principal Scientist, Amazon Alexa*
+
+Alessandro Moschitti is a Principal Research Scientist of Amazon Alexa AI, where he
+has been leading the science of Question Answering science since 2018. He obtained his
+Ph.D. in CS from the University of Rome in 2003, and then did his postdoc at The University
+of Texas at Dallas for two years. In 2007, he joined the CS Dept. of the University of Trento,
+Italy. Since 2009 to 2011, he participated to the Jeopardy! Grand Challenge with the IBM
+Watson Research center, and collaborated with them until 2015. He was a Principal
+Scientist of the Qatar Computing Research Institute (QCRI) for five years (2013-2018). His
+expertise concerns theoretical and applied machine learning in the areas of NLP, IR and
+Data Mining. He is well-known for his work on structural kernels and neural networks for
+syntactic/semantic inference over text, documented by more than 300 scientific articles. He
+has received four IBM Faculty Awards, one Google Faculty Award, and five best paper
+awards. He was the General Chair of EMNLP 2014, a PC co-Chair of CoNLL 2015, and has
+had a chair role in more than 70 conferences and workshops. He is currently an
+action/associate editor of ACM Computing Survey and JAIR, and General Chair of EACL 2023. 
+He has led more than 25 research projects, e.g., with MIT CSAIL.
+
+![](images/tbd.png){: width="150"}
+*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Chief Scientist & SVP of AI, Dataminr*
+
+Alex Jaimes is Chief Scientist & SVP of AI at Dataminr and Visiting Professor at Cornell Tech. 
+He is a leader in AI and has built products that are used by millions of people (real-time event detection/emergency response, healthcare, self-driving cars, media, telecomm, etc.) 
+at companies such as Yahoo, Telefónica, IBM, Fuji Xerox, Siemens, AT&T Bell Labs, DigitalOcean, etc. 
+An early voice in Human-Centered AI (Computing), he has over 100 patents and publications in top-tier conferences and journals in AI. 
+He has been featured widely in the press (MIT Tech review, CNBC, Vice, TechCrunch, Yahoo! Finance, etc.). 
+He is a mentor at Endeavor and Techstars, and a member of the advisory board of 
+Digital Divide Data (a non-for-profit that creates sustainable tech opportunities for underserved youth, their families, and their communities in Asia and Africa). He was an expert in the Colombian Government’s Artificial Intelligence Expert Mission which advised the President on AI policies. Alex holds a Ph.D. from Columbia University.
+
+
+## Panel members
+
+![](images/tbd.png){: width="150"}
+*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Chief Scientist, Chief Scientist*
+
+![](images/tbd.png){: width="150"}
+*[Emanuele Rodolà](https://scholar.google.com/citations?user=-EH4wBYAAAAJ&hl=en), Full Professor, Sapienza University of Rome*
+
+![](images/tbd.png){: width="150"}
+*[Kay Rottmann](https://scholar.google.com/citations?user=YLUnbqEAAAAJ&hl=en&oi=ao), Senior Applied Scientist, Amazon Alexa*
+
+![](images/tbd.png){: width="150"}
+*[Paul Bennett](https://scholar.google.com/citations?user=AIncPrIAAAAJ&hl=en&oi=ao), Director of Research (LLMs), Spotify*
+
+
+
+## Workshop Organizers
+
+![](images/tbd.jpeg){: width="150"}
+*[Enrico Palumbo](https://www.linkedin.com/in/enrico-palumbo-0272baa8/), Spotify, Italy*
+
+![](images/tbd.jpeg){: width="150"}
+*[Davide Bernardi](https://www.linkedin.com/in/bernardid/), Amazon Alexa, Italy*
+
+![](images/tbd.jpeg){: width="150"}
+*[Hugues Bouchard](https://www.linkedin.com/in/hugues-bouchard-6939822/), Spotify, Spain*
+
+![](images/tbd.png){: width="150"}
+*[Alessandro Manzotti](https://www.linkedin.com/in/amanzotti/), Microsoft, Italy*
+
+![](images/tbd.jpeg){: width="150"}
+*[Daniele Amberti](https://www.linkedin.com/in/damberti/), Amazon Alexa, Italy*
+
+
+## Program Committee
+
+* Anjali Shenoy, Research Science Manager, Amazon
+* Anne Schuth, ML Engineering Manager, Spotify
+* Anurag Dwarakanath, Research Science Manager, Amazon
+* Bei Chen, Research Science Manager, Amazon
+* Bianca Scarlini, Research Scientist, Amazon
+* Claudia Hauff, Staff Research Scientist, Spotify
+* Daniele Regoli, Data Scientist, Intesa Sanpaolo
+* Gabriel Benedict, PhD student, University of Amsterdam
+* Geoffrey Liu, Senior Speech Scientist, Microsoft
+* Gustavo Penha, Research Scientist, Spotify
+* Humberto Corona Pampin, Senior Product Manager, Spotify
+* Jacopo Chevallard, Science & Innovation Senior Lead, BLOOM
+* Jose Luis Redondo Garcia, Senior Research Scientist, Spotify
+* Kay Rottmann, Senior Applied Scientist-NLU, Amazon
+* Luca Rubini, Speech Scientist, Nuance communications
+* Luigi Di Caro, Associate Professor, University of Turin
+* Maria Minakova, Research Science Manager, Amazon
+* Melanie Bradford, Research Science Manager, Amazon
+* Piyush Behre, Applied Science Manager, Microsoft
+* Sharman Tan, Applied Scientist, Microsoft
+* Thilina Rajapakse, PhD student, University of Amsterdam
+* Thong Nguyen, PhD student, University of Amsterdam
+* Valerio Basile, Assistant Professor, University of Turin
