@@ -1,5 +1,3 @@
-# roegen-recsys2024.github.io
-
 ## Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems.
 <em> A Workshop Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024 </em>
 
@@ -9,7 +7,8 @@ Generative models offer new opportunities in the field of recommender systems by
 
 However, there is no "free cake"; new advantages bring new challenges and risks that must be addressed when using LLMs and other categories of recommendation with generative models. Some of these challenges are new (e.g., hallucination, out-of-inventory recommendations) and some are newly intensified due to the expanded capabilities of these systems (privacy, fairness and biases, security and robustness, manipulation). A critical aspect of utilizing these technologies is to develop robust evaluation systems that can effectively assess the performance, fairness, and security of these Gen-RecSys. Proper evaluation is essential to ensure these systems are reliable and trustworthy, especially when dealing with sensitive user data and making impactful recommendations.
 
-This workshop is the first workshop on recommendation with generative models in recommender systems, centered around three themes: **_R_**isks, **_O_**pportunities, and **_E_**valuation. These themes encompass the full spectrum of considerations necessary for integrating and leveraging generative models effectively and ethically within recommender systems.
+This workshop will specifically focus on the **Risks**, **Opportunities**, and **Evaluation** of Generative Models in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Fashion and Textiles, Explanation, Boundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.
+
 
 
 ## Important Dates
