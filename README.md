@@ -24,14 +24,13 @@ This workshop will specifically focus on the **Risks**, **Opportunities**, and *
 
 ## Workshop Organizers
 
-*[Yashar Deldjoo](https://scholar.google.com/citations?user=-C_x_hUAAAAJ&hl=en)*, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy
-*[Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en)*, Professor, UC San Diego, USA
-*[Scott Sanner](https://scholar.google.com/citations?hl=en&user=kB8UPNIAAAAJ)*, Associate Professor, University of Toronto, Canada
-*[Pablo Castells](https://scholar.google.com/citations?hl=en&user=gu9fnxsAAAAJ)*, Professor, Autonomous University of Madrid, Spain
-*[Shuai Zhang](https://scholar.google.com/citations?hl=en&user=PPjdxlcAAAAJ)*, Applied Scientist, Amazon Web Services AI, USA
-*[Enrico Palumbo](https://scholar.google.com/citations?hl=en&user=WINnyNwAAAAJ)*, Senior Research Scientist, Spotify
-*[Hugues Bouchard](https://dblp.org/pid/79/1925.html)*, Senior Research Manager, Spotify
-
+- *[Yashar Deldjoo](https://scholar.google.com/citations?user=-C_x_hUAAAAJ&hl=en)*, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy
+- *[Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en)*, Professor, UC San Diego, USA
+- *[Scott Sanner](https://scholar.google.com/citations?hl=en&user=kB8UPNIAAAAJ)*, Associate Professor, University of Toronto, Canada
+- *[Pablo Castells](https://scholar.google.com/citations?hl=en&user=gu9fnxsAAAAJ)*, Professor, Autonomous University of Madrid, Spain
+- *[Shuai Zhang](https://scholar.google.com/citations?hl=en&user=PPjdxlcAAAAJ)*, Applied Scientist, Amazon Web Services AI, USA
+- *[Enrico Palumbo](https://scholar.google.com/citations?hl=en&user=WINnyNwAAAAJ)*, Senior Research Scientist, Spotify
+- *[Hugues Bouchard](https://dblp.org/pid/79/1925.html)*, Senior Research Manager, Spotify
 
 ## Program Committee
 
