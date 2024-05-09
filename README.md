@@ -7,7 +7,7 @@ Generative models offer new opportunities in the field of recommender systems by
 
 However, there is no "free cake"; new advantages bring new challenges and risks that must be addressed when using LLMs and other categories of recommendation with generative models. Some of these challenges are new (e.g., hallucination, out-of-inventory recommendations) and some are newly intensified due to the expanded capabilities of these systems (privacy, fairness and biases, security and robustness, manipulation). A critical aspect of utilizing these technologies is to develop robust evaluation systems that can effectively assess the performance, fairness, and security of these Gen-RecSys. Proper evaluation is essential to ensure these systems are reliable and trustworthy, especially when dealing with sensitive user data and making impactful recommendations.
 
-This workshop will specifically focus on the **Risks**, **Opportunities**, and **Evaluation** of Generative Models in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Fashion and Textiles, Explanation, Boundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.
+This workshop will specifically focus on the **Risks**, **Opportunities**, and **Evaluation** of Generative Models in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Fashion and Textiles, Explanation, Bundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.
 
 
 
@@ -24,52 +24,40 @@ This workshop will specifically focus on the **Risks**, **Opportunities**, and *
 
 ## Workshop Organizers
 
-Certainly! Here are the streamlined profiles with just the names and links, as requested:
-
 ### Yashar Deldjoo
 ![](images/tbd.png){: width="150"}
 *[Yashar Deldjoo](https://scholar.google.com/citations?user=-C_x_hUAAAAJ&hl=en)*, Tenure-Track Assistant Professor, Polytechnic University of Bari, Italy
 
 ### Julian McAuley
 ![](images/tbd.png){: width="150"}
-*[Julian McAuley](https://scholar.google.com/citations?user=1jUdmRMAAAAJ&hl=en)*, Professor, UC San Diego, USA
+*[Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en)*, Professor, UC San Diego, USA
 
 ### Scott Sanner
 ![](images/tbd.png){: width="150"}
-*[Scott Sanner](https://scholar.google.com/citations?user=u6bJfNQAAAAJ&hl=en)*, Associate Professor, University of Toronto, Canada
+*[Scott Sanner](https://scholar.google.com/citations?hl=en&user=kB8UPNIAAAAJ)*, Associate Professor, University of Toronto, Canada
 
 ### Pablo Castells
 ![](images/tbd.png){: width="150"}
-*[Pablo Castells](https://scholar.google.com/citations?user=6m8SbYQAAAAJ&hl=en)*, Professor, Autonomous University of Madrid, Spain
+*[Pablo Castells](https://scholar.google.com/citations?hl=en&user=gu9fnxsAAAAJ)*, Professor, Autonomous University of Madrid, Spain
 
 ### Shuai Zhang
 ![](images/tbd.png){: width="150"}
-*[Shuai Zhang](https://scholar.google.com/citations?user=o84E0GoAAAAJ&hl=en)*, Applied Scientist, Amazon Web Services AI, USA
+*[Shuai Zhang](https://scholar.google.com/citations?hl=en&user=PPjdxlcAAAAJ)*, Applied Scientist, Amazon Web Services AI, USA
 
+### Enrico Palumbo
+![](images/tbd.png){: width="150"}
+*[Enrico Palumbo](https://scholar.google.com/citations?hl=en&user=WINnyNwAAAAJ)*, Senior Research Scientist, Spotify
+
+### Hugues Bouchard
+![](images/tbd.png){: width="150"}
+*[Hugues Bouchard](https://dblp.org/pid/79/1925.html)*, Senior Research Manager, Spotify
 
 
 ## Program Committee
 
-* Anjali Shenoy, Research Science Manager, Amazon
-* Anne Schuth, ML Engineering Manager, Spotify
-* Anurag Dwarakanath, Research Science Manager, Amazon
-* Bei Chen, Research Science Manager, Amazon
-* Bianca Scarlini, Research Scientist, Amazon
+
 * Claudia Hauff, Staff Research Scientist, Spotify
-* Daniele Regoli, Data Scientist, Intesa Sanpaolo
-* Gabriel Benedict, PhD student, University of Amsterdam
-* Geoffrey Liu, Senior Speech Scientist, Microsoft
-* Gustavo Penha, Research Scientist, Spotify
 * Humberto Corona Pampin, Senior Product Manager, Spotify
-* Jacopo Chevallard, Science & Innovation Senior Lead, BLOOM
-* Jose Luis Redondo Garcia, Senior Research Scientist, Spotify
 * Kay Rottmann, Senior Applied Scientist-NLU, Amazon
-* Luca Rubini, Speech Scientist, Nuance communications
-* Luigi Di Caro, Associate Professor, University of Turin
-* Maria Minakova, Research Science Manager, Amazon
-* Melanie Bradford, Research Science Manager, Amazon
-* Piyush Behre, Applied Science Manager, Microsoft
-* Sharman Tan, Applied Scientist, Microsoft
-* Thilina Rajapakse, PhD student, University of Amsterdam
 * Thong Nguyen, PhD student, University of Amsterdam
 * Valerio Basile, Assistant Professor, University of Turin
