@@ -1,5 +1,5 @@
-## Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems.
-<em> A Workshop Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024 </em>
+## The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)
+<em> Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024 </em>
 
 Generative models have the potential to change the way we seek information online. Large language models (LLMs) such as Chat-GPT represent one successful application of generative models, leveraging vast amounts of texts encoded in their billion-scale parameters. Recommendation systems employing generative models go beyond LLMs, encompassing a broader range of models such as deep generative models (DGMs) trained directly on user-item interactions, multi-modal foundation models, and other non-LLM generative models. These models offer new opportunities in the field of recommender systems by enhancing how user preferences are learned, connecting us with vast amounts of information available on the Internet. They are capable of delivering more personalized and contextually relevant content, generating recommendations without reliance on narrowly defined datasets, and addressing the cold-start issue. Furthermore, these models significantly enhance the level of interactivity users have with recommender systems, boosting conversational capabilities. 
 
