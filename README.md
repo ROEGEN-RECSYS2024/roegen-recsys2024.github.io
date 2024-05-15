@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Topics](https://img.shields.io/badge/Topics-Explore-blue)](#topics)
-[![Submission Guidelines](https://img.shields.io/badge/Submission%20Guidelines-Submit-orange)](#submission-guidelines-for-the-workshop)
-[![Important Dates](https://img.shields.io/badge/Important%20Dates-Dates-green)](#important-dates)
-[![Workshop Organizers](https://img.shields.io/badge/Workshop%20Organizers-Meet-yellow)](#workshop-organizers)
-[![Program Committee](https://img.shields.io/badge/Program%20Committee-Committee-red)](#program-committee)
+[![Topics](https://img.shields.io/badge/Topics-blue)](#topics)
+[![Submission Guidelines](https://img.shields.io/badge/Submission%20Guidelines-blue)](#submission-guidelines-for-the-workshop)
+[![Important Dates](https://img.shields.io/badge/Important%20Dates-blue)](#important-dates)
+[![Workshop Organizers](https://img.shields.io/badge/Workshop%20Organizers-blue)](#workshop-organizers)
+[![Program Committee](https://img.shields.io/badge/Program%20Committee-blue)](#program-committee)
 
 </div>
 
