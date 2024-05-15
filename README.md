@@ -34,6 +34,16 @@ This workshop will focus on the opportunities and challenges of Recommender Syst
 
 The goal is to bring together industry and academia researchers working on applied research problems in the Recommender System space, fostering knowledge sharing and creating a discussion that paves the way to societally beneficial exploitation of this technology.
 
+### Submission Guidelines for the Workshop
+
+We welcome submissions in the form of full papers, short papers, and extended abstracts that address any of the listed topics or related areas. Submissions should clearly articulate the contribution to the field, methodology, results, and implications for the design, implementation, or understanding of LLMs and Generative models in recommender systems. Submissions must be anonymized and adhere to the specified formatting guidelines, which will be provided on the workshop website. The submission site is EasyChair RecSys 2024.
+
+- **Full Papers** (up to 8 pages, excluding references): Detailed studies, theoretical analyses, or extensive reviews of specific aspects of LLMs and Generative models in recommender systems.
+- **Short Papers** (up to 4 pages, excluding references): Preliminary findings, innovative concepts, or case studies on the application of LLMs and Generative models in recommender systems.
+- **Extended Abstracts** (2-3 pages, excluding references): Proposals for discussions, work-in-progress, or initial insights into the application of LLMs and Generative models in recommender systems.
+
+All papers will undergo a rigorous double-blind peer review process, focusing on relevance, originality, technical quality, and overall contribution to the field. Acceptance will be based on these criteria. Accepted papers will be presented at the workshop and included in the proceedings, and will be published in CEUR Workshop Proceedings.  All papers will undergo the same review process and review period. Paper submissions must conform to the double-blind review policy. All papers will be peer-reviewed by experts in the field. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality.
+High-quality submissions will be recommended for a **special issue** in **ACM TORS** on using generative models for recommendation.
 
 ## Important Dates
 
