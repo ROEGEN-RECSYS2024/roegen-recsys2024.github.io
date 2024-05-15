@@ -1,4 +1,12 @@
-[Topics](#topics) | [Submission Guidelines](#submission-guidelines-for-the-workshop) | [Important Dates](#important-dates) | [Workshop Organizers](#workshop-organizers) | [Program Committee](#program-committee)
+<div align="center">
+
+[![Topics](https://img.shields.io/badge/Topics-Explore-blue)](#topics)
+[![Submission Guidelines](https://img.shields.io/badge/Submission%20Guidelines-Submit-orange)](#submission-guidelines-for-the-workshop)
+[![Important Dates](https://img.shields.io/badge/Important%20Dates-Dates-green)](#important-dates)
+[![Workshop Organizers](https://img.shields.io/badge/Workshop%20Organizers-Meet-yellow)](#workshop-organizers)
+[![Program Committee](https://img.shields.io/badge/Program%20Committee-Committee-red)](#program-committee)
+
+</div>
 
 ## The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)
 <em> Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024 </em>
