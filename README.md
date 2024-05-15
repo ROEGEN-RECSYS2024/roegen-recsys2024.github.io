@@ -11,7 +11,7 @@ This workshop will specifically focus on the **<u>R</u>isks**, **<u>O</u>pportun
 
 ## Important Dates
 
-* **April 30th:** Paper submission deadline
+* **Aug 30th:** Paper submission deadline
 * **Sep 13rd:** Author notification
 * **Sep 20th:** Camera-ready deadline
 * **Oct 18th:** ROGEN@RECSYS 2024 Workshop
