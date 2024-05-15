@@ -1,3 +1,5 @@
+[Topics](#topics) | [Submission Guidelines](#submission-guidelines-for-the-workshop) | [Important Dates](#important-dates) | [Workshop Organizers](#workshop-organizers) | [Program Committee](#program-committee)
+
 ## The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)
 <em> Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024 </em>
 
@@ -6,12 +8,6 @@ Generative models have the potential to change the way we seek information onlin
 However, there is no "free cake"; new advantages bring new challenges and risks that must be addressed when using LLMs and other categories of DGMs. Some of these challenges are new (e.g., hallucination, out-of-inventory recommendations) and some are newly intensified due to the expanded capabilities of these systems (privacy, fairness and biases, security and robustness, manipulation). A critical aspect of utilizing these technologies is to develop robust evaluation systems that can effectively assess the performance, fairness, and security of these Gen-RecSys. Proper evaluation is essential to ensure these systems are reliable and trustworthy, especially when dealing with sensitive user data and making impactful recommendations.
 
 This workshop will specifically focus on the **<u>R</u>isks**, **<u>O</u>pportunities**, and **<u>E</u>valuation** of Generative Models in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Fashion and Textiles, Explanation, Bundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.
-
-- [Topics](#topics)
-- [Submission Guidelines for the Workshop](#submission-guidelines-for-the-workshop)
-- [Important Dates](#important-dates)
-- [Workshop Organizers](#workshop-organizers)
-- [Program Committee](#program-committee)
 
 ## Topics
 This workshop will focus on the opportunities and challenges of Recommender Systems in real-world applications, structured around three key pillars: opportunities, risks and challenges, and evaluation and mitigation strategies. Discussions will cover topics such as data preprocessing, model evaluation, fairness, debiasing, cold-start problems, model distillation, and user interaction design. We also welcome stories of Recommender System usage in specific applications, such as E-commerce, Streaming Services, News Aggregation, Social Media, and Personalized Marketing. The goal is to bring together industry and academia researchers to foster knowledge sharing and create discussions that pave the way to societally beneficial exploitation of this technology.
