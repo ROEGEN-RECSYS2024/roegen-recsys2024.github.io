@@ -7,6 +7,32 @@ However, there is no "free cake"; new advantages bring new challenges and risks 
 
 This workshop will specifically focus on the **<u>R</u>isks**, **<u>O</u>pportunities**, and **<u>E</u>valuation** of Generative Models in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Fashion and Textiles, Explanation, Bundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.
 
+## Topics
+This workshop will focus on the opportunities and challenges of Recommender Systems in real-world applications, structured around three key pillars: opportunities, risks and challenges, and evaluation and mitigation strategies. Discussions will cover topics such as data preprocessing, model evaluation, fairness, debiasing, cold-start problems, model distillation, and user interaction design. We also welcome stories of Recommender System usage in specific applications, such as E-commerce, Streaming Services, News Aggregation, Social Media, and Personalized Marketing. The goal is to bring together industry and academia researchers to foster knowledge sharing and create discussions that pave the way to societally beneficial exploitation of this technology.
+
+### Opportunities
+- Integrating large language models and other pre-trained generative models to enhance recommender algorithms for user modeling.
+- Generative recommendation using AI to help create personalized item content, such as advertisements, images, and micro-videos.
+- Combining content generation and retrieval for personalized information seeking and presentation.
+- Improving traditional recommender tasks by leveraging the advantages of generative models, including collaborative, sequential, cold-start, social, conversational, multimodal, and causal recommender tasks.
+- Applications of generative model-enhanced recommender systems in various sectors, such as finance, streaming platforms, social networks, entertainment, music, e-commerce, education, fashion, and healthcare.
+
+### Risks and Challenges
+- Identifying and addressing the potential risks and challenges associated with deploying generative models in recommender systems.
+- Challenges of hallucination and misinformation risks, particularly with the advent of sophisticated image generation models.
+- Examining bias and fairness in models with a special emphasis on mitigating biases related to race, gender, or brands.
+- Privacy implications of utilizing extensive data for model training.
+- Technical challenges in achieving transparency, explainability, security challenges, and user control in recommendations.
+- Ensuring compliance with emerging ethical and legal standards.
+
+### Evaluation and Mitigation
+- Developing new benchmarks, evaluation metrics, and protocols to assess the efficacy, fairness, and security of generative models in recommender systems.
+- Novel strategies for bias detection and mitigation.
+- Red-teaming and ensuring recommendations are transparent, explainable, and safeguard user privacy.
+- Evaluating the robustness, trustworthiness, and real-time performance of generative models across different domains and modalities.
+- Designing evaluation methodologies to examine the usage of generative models in recommender systems, including human evaluation paradigms and interfaces.
+
+The goal is to bring together industry and academia researchers working on applied research problems in the Recommender System space, fostering knowledge sharing and creating a discussion that paves the way to societally beneficial exploitation of this technology.
 
 
 ## Important Dates
