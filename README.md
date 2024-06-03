@@ -75,7 +75,7 @@
 </div>
 
 <div class="header">
-    <h1>The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)</h1>
+    <h1>The 1st Wsorkshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)</h1>
     <em>Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024</em>
 </div>
 
@@ -163,6 +163,5 @@
         </ul>
     </div>
 </div>
-
 </body>
 </html>
