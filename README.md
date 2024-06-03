@@ -11,6 +11,22 @@
         margin: 0;
         padding: 0;
     }
+    .navbar {
+        overflow: hidden;
+        background-color: #333;
+    }
+    .navbar a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 20px;
+        text-decoration: none;
+    }
+    .navbar a:hover {
+        background-color: #ddd;
+        color: black;
+    }
     .header {
         background-color: #5c9ded;
         color: white;
@@ -51,19 +67,26 @@
 </head>
 <body>
 
+<div class="navbar">
+    <a href="#home">Home</a>
+    <a href="submission_information.md">Call for Papers</a>
+    <a href="#program">Program</a>
+    <a href="#important-dates">Important Dates</a>
+</div>
+
 <div class="header">
     <h1>The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)</h1>
     <em>Colocated with ACM Conference on Recommender Systems in Bari, Italy in October 2024</em>
 </div>
 
-<div class="content">
+<div class="content" id="home">
     <p>Generative models are changing the way we seek information online. Large language models (LLMs) such as Chat-GPT represent one successful application of generative models, leveraging vast amounts of texts encoded in their billion-scale parameters. Recommendation systems employing generative models go beyond LLMs, encompassing a broader range of models such as deep generative models (DGMs) trained directly on user-item interactions, multi-modal foundation models, and other non-LLM generative models. These models offer new opportunities in the field of recommender systems by enhancing how user preferences are learned, connecting us with vast amounts of information available on the Internet. They are capable of delivering more personalized and contextually relevant content, generating recommendations without reliance on narrowly defined datasets, and addressing the cold-start issue. Furthermore, these models significantly enhance the level of interactivity users have with recommender systems, boosting conversational capabilities.</p>
 
     <p>However, there is no “free cake”; new advantages bring new challenges and risks that must be addressed when using LLMs and other categories of DGMs. Some of these challenges are new (e.g., hallucination, out-of-inventory recommendations) and some are newly intensified due to the expanded capabilities of these systems (privacy, fairness and biases, security and robustness, manipulation, opacity, accountability, over-reliance on automation). A critical aspect of utilizing these technologies is to develop robust evaluation systems that can effectively assess the performance, fairness, and security of these Gen-RecSys. Proper evaluation is essential to ensure these systems are reliable and trustworthy, especially when dealing with sensitive user data and making impactful recommendations.</p>
 
     <p>This workshop will specifically focus on the <b><u>R</u>isks</b>, <b><u>O</u>pportunities</b>, and <b><u>E</u>valuation</b> in real-world Recommender System applications, aiming to cover a full spectrum of current challenges and advances. Additionally, the workshop invites discussions on the application of LLMs and Generative Models in specific tasks and areas such as Conversation, Explanation, Bundle Recommendation, among others. The discussions are encouraged as long as the goal pertains to some form of information seeking.</p>
 
-    <h2>Topics</h2>
+    <h2 id="topics">Topics</h2>
     <p>This workshop will focus on the opportunities and challenges of Recommender Systems in real-world applications, structured around three key pillars: opportunities, risks and challenges, and evaluation and mitigation strategies. Discussions will cover topics such as data preprocessing, model evaluation, fairness, debiasing, cold-start problems, model distillation, and user interaction design. We also welcome stories of Recommender System usage in specific applications, such as E-commerce, Streaming Services, News, Social Media, and Personalized Marketing. The goal is to bring together industry and academia researchers to foster knowledge sharing and create discussions that pave the way to societally beneficial exploitation of this technology.</p>
 
     <h3>Opportunities</h3>
@@ -95,7 +118,7 @@
         <li>Novel approaches for (generative model) Alignment and RLHF for recommendation tasks.</li>
     </ul>
 
-    <h2>Submission Guidelines for the Workshop</h2>
+    <h2 id="submission-guidelines">Submission Guidelines for the Workshop</h2>
     <p>We welcome submissions in the form of full papers, short papers, and extended abstracts that address any of the listed topics and related areas. Submissions should clearly articulate the contribution to the field, methodology, results, and implications for the design, implementation, or understanding of LLMs and Generative models in recommender systems.</p>
     <ul>
         <li><b>Full Papers:</b> Full Papers (up to 8 pages, excluding references): Detailed studies, theoretical analyses, or extensive reviews of specific aspects of LLMs and Generative models in recommender systems.</li>
@@ -107,7 +130,7 @@
 
     <p>All papers will undergo a rigorous double-blind peer review process, focusing on relevance, originality, technical quality, relation to the workshop scope, and overall contribution to the field. Acceptance will be based on these criteria. Accepted papers will be presented at the workshop and included in the proceedings, and will be published in CEUR Workshop Proceedings. All papers will undergo the same review process and review period. High-quality submissions will be recommended for a special issue in ACM TORS on using generative models for recommendation.</p>
 
-    <div class="important-dates">
+    <div class="important-dates" id="important-dates">
         <h3>Important Dates</h3>
         <ul>
             <li><b>Submission Deadline:</b> August 30, 2024</li>
