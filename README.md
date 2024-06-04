@@ -69,9 +69,9 @@
 
 <div class="navbar">
     <a href="#home">Home</a>
-    <a href="submission_information.md">Call for Papers</a>
-    <a href="#program">Program</a>
+    <a href="#submission-guidelines">Call for Papers</a>
     <a href="#important-dates">Important Dates</a>
+    <a href="#program">Program</a>
 </div>
 
 <div class="header">
