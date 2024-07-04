@@ -155,13 +155,7 @@
 
     <div class="program-committee">
         <h2>Program Committee</h2>
-        <ul>
-            <li>Claudia Hauff, Staff Research Scientist, Spotify</li>
-            <li>Humberto Corona Pampin, Senior Product Manager, Spotify</li>
-            <li>Kay Rottmann, Senior Applied Scientist-NLU, Amazon</li>
-            <li>Thong Nguyen, PhD student, University of Amsterdam</li>
-            <li>Valerio Basile, Assistant Professor, University of Turin</li>
-        </ul>
+        TBA
     </div>
 </div>
 
