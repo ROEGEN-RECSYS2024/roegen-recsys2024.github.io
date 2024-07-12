@@ -127,7 +127,7 @@
         <li><b>Extended Abstracts:</b> (2-3 pages, excluding references): Proposals for discussions, work-in-progress, or initial insights into the application of LLMs and Generative models in recommender systems.</li>
     </ul>
     <p>Submissions must be anonymized and adhere to the specified formatting guidelines, which will be provided on the workshop website.</p>
-    <p>The submission site is <a href="[https://easychair.org/conferences/?conf=recsys2024](http://easychair.org/my/conference?conf=recsys2024workshops)">EasyChair RecSys 2024 Workshop</a>.</p>
+    <p>The submission site is <a href="[http://easychair.org/my/conference?conf=recsys2024workshops]">EasyChair RecSys 2024 Workshops</a>.</p>
     <p>Make sure to select the “The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)” track when creating a submission.</p>
 
     <p>All papers will undergo a rigorous double-blind peer review process, focusing on relevance, originality, technical quality, relation to the workshop scope, and overall contribution to the field. Acceptance will be based on these criteria. Accepted papers will be presented at the workshop and included in the proceedings, and will be published in CEUR Workshop Proceedings. All papers will undergo the same review process and review period. High-quality submissions will be recommended for a special issue in ACM TORS on using generative models for recommendation.</p>
