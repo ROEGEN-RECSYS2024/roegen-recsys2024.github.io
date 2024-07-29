@@ -156,7 +156,25 @@
 
     <div class="program-committee">
         <h2>Program Committee</h2>
-        TBA
+        <ul>
+            <li>Aleksandr Petrov, a.petrov.1@research.gla.ac.uk, University of Glasgow</li>
+            <li>Branislav Kveton, bkveton@amazon.com, Amazon</li>
+            <li>Chao Zhang, zclfe00@gmail.com, University of Science and Technology of China</li>
+            <li>Chengkai Huang, chengkai.huang1@unsw.edu.au, The University of New South Wales</li>
+            <li>Chen Ma, chenma@cityu.edu.hk, City University of Hong Kong</li>
+            <li>Claudia Hauff, claudia.hauff@gmail.com, Spotify</li>
+            <li>Dietmar Jannach, dietmar.jannach@aau.at, University of Klagenfurt</li>
+            <li>Gustavo Penha, gustavop@spotify.com, Spotify</li>
+            <li>Hugues Bouchard, hb@spotify.com, Spotify</li>
+            <li>Martin Mladenov, mmladenov@google.com, Google </li>
+            <li>Michael Ekstrand, mde48@drexel.edu, Drexel University</li>
+            <li>Mohammad Aliannejadi, m.aliannejadi@uva.nl, University of Amsterdam</li>
+            <li>Narges Tabari, nargesam@amazon.com, Amazon</li>
+            <li>Paolo Garza, paolo.garza@polito.it, Politecnico di Torino</li>
+            <li>Reza Shirvany, reza.shirvany@zalando.de, Zalando</li>
+            <li>Thong Nguyen, thongnguyen@microsoft.com, Microsoft</li>
+            <li>Zhankui He, zhh004@ucsd.edu, University of California San Diego</li>
+        </ul>
     </div>
 </div>
 
