@@ -120,7 +120,7 @@
     </ul>
 
     <h2 id="submission-guidelines">Submission Guidelines for the Workshop</h2>
-    <p>We welcome submissions in the form of full papers, short papers, and extended abstracts that address any of the listed topics and related areas. Submissions should clearly articulate the contribution to the field, methodology, results, and implications for the design, implementation, or understanding of LLMs and Generative models in recommender systems. Submissions should follow the <a href="http://ceur-ws.org/Vol-XXX/CEURART.zip"> CEUR-WS 2 column </a>.</p>
+    <p>We welcome submissions in the form of full papers, short papers, and extended abstracts that address any of the listed topics and related areas. Submissions should clearly articulate the contribution to the field, methodology, results, and implications for the design, implementation, or understanding of LLMs and Generative models in recommender systems. Submissions should follow the <a href="https://ceur-ws.org/Vol-XXX/CEURART.zip">CEUR-WS 2 column</a> (https://ceur-ws.org/Vol-XXX/CEURART.zip).</p>
     <ul>
         <li><b>Full Papers:</b> Full Papers (up to 8 pages, excluding references): Detailed studies, theoretical analyses, or extensive reviews of specific aspects of LLMs and Generative models in recommender systems.</li>
         <li><b>Short Papers:</b> (up to 4 pages, excluding references): Preliminary findings, innovative concepts, or case studies on the application of LLMs and Generative models in recommender systems.</li>
