@@ -135,7 +135,7 @@
     <div class="important-dates" id="important-dates">
         <h2>Important Dates</h2>
         <ul>
-            <li><b>Submission Deadline:</b> ~~August 30, 2024~~ September 5, 2024</li>
+            <li><b>Submission Deadline:</b> <del>August 30, 2024</del> September 5, 2024</li>
             <li><b>Notification of Acceptance:</b> September 13, 2024</li>
             <li><b>Camera-Ready Submission:</b> September 20, 2024</li>
             <li><b>Workshop Date:</b> October 18, 2024</li>
