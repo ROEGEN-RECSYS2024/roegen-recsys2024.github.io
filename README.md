@@ -166,16 +166,36 @@
         </ul>
     </div>
 
-    <div class="featured-speakers" id="speakers">
+<div class="featured-speakers" id="speakers">
     <h2>Featured Speakers</h2>
     <div class="speaker">
-        <img src="path_to_image.jpg" alt="Speaker Name" class="speaker-photo">
+        <img src="path_to_minmin_chen.jpg" alt="Minmin Chen" class="speaker-photo">
         <div class="speaker-info">
-            <h3>Speaker Name</h3>
-            <p>Short abstract about the talk and background of the speaker.</p>
+            <h3>Minmin Chen</h3>
+            <p>Principal research scientist at Google Deepmind, USA: TBC</p>
         </div>
     </div>
-    <!-- Repeat for each speaker -->
+    <div class="speaker">
+        <img src="path_to_jiaqi_zhai.jpg" alt="Jiaqi Zhai" class="speaker-photo">
+        <div class="speaker-info">
+            <h3>Jiaqi Zhai</h3>
+            <p>Senior Research Scientist at Meta, USA: "ACTIONS SPEAK LOUDER THAN WORDS".</p>
+        </div>
+    </div>
+    <div class="speaker">
+        <img src="path_to_craig_boutilier.jpg" alt="Craig Boutilier" class="speaker-photo">
+        <div class="speaker-info">
+            <h3>Craig Boutilier</h3>
+            <p>Senior Research Scientist at Google: "Alignment in Recommendation Systems"</p>
+        </div>
+    </div>
+    <div class="speaker">
+        <img src="path_to_mikael_ekstrand.jpg" alt="Mikael Ekstrand" class="speaker-photo">
+        <div class="speaker-info">
+            <h3>Mikael Ekstrand</h3>
+            <p>Assistant professor at Drexel University, USA: "Responsible Recommendation in the Age of Generative AI"</p>
+        </div>
+    </div>
 </div>
 
 
