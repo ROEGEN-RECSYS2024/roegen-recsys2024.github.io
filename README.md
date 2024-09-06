@@ -4,6 +4,30 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>ROEGEN@RECSYS2024</title>
 <style>
+    .featured-speakers {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.speaker {
+    display: flex;
+    margin-top: 20px;
+}
+
+.speaker-photo {
+    width: 150px; /* Adjust size as necessary */
+    height: 150px; /* Maintain aspect ratio */
+    border-radius: 75px; /* Circular photos */
+    margin-right: 20px;
+}
+
+.speaker-info {
+    flex-grow: 1;
+}
+
     body {
         background-color: #f0f4f8;
         font-family: Arial, sans-serif;
@@ -141,6 +165,19 @@
             <li><b>Workshop Date:</b> October 18, 2024</li>
         </ul>
     </div>
+
+    <div class="featured-speakers" id="speakers">
+    <h2>Featured Speakers</h2>
+    <div class="speaker">
+        <img src="path_to_image.jpg" alt="Speaker Name" class="speaker-photo">
+        <div class="speaker-info">
+            <h3>Speaker Name</h3>
+            <p>Short abstract about the talk and background of the speaker.</p>
+        </div>
+    </div>
+    <!-- Repeat for each speaker -->
+</div>
+
 
     <div class="organizers">
         <h2>Workshop Organizers</h2>
