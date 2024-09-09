@@ -172,28 +172,31 @@
         <img src="path_to_minmin_chen.jpg" alt="Minmin Chen" class="speaker-photo">
         <div class="speaker-info">
             <h3>Minmin Chen</h3>
-            <p>Principal research scientist at Google Deepmind, USA: TBC</p>
+            <p>Principal research scientist at Google Deepmind, USA</p>
         </div>
     </div>
     <div class="speaker">
         <img src="path_to_jiaqi_zhai.jpg" alt="Jiaqi Zhai" class="speaker-photo">
         <div class="speaker-info">
             <h3>Jiaqi Zhai</h3>
-            <p>Senior Research Scientist at Meta, USA: "ACTIONS SPEAK LOUDER THAN WORDS".</p>
+            <p>Senior Research Scientist at Meta, USA</p>
+            <h4>Actions Speak Louder than Words</h4>
         </div>
     </div>
     <div class="speaker">
         <img src="path_to_craig_boutilier.jpg" alt="Craig Boutilier" class="speaker-photo">
         <div class="speaker-info">
             <h3>Craig Boutilier</h3>
-            <p>Senior Research Scientist at Google: "Alignment in Recommendation Systems"</p>
+            <p>Senior Research Scientist at Google</p>
+            <h4>Alignment in Recommendation Systems</h4>
         </div>
     </div>
     <div class="speaker">
         <img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo">
         <div class="speaker-info">
             <h3>Michael Ekstrand</h3>
-            <p>Assistant professor at Drexel University, USA: "Responsible Recommendation in the Age of Generative AI"</p>
+            <p>Assistant professor at Drexel University, USA</p>
+            <h4>Responsible Recommendation in the Age of Generative AI</h4>
         </div>
     </div>
 </div>
