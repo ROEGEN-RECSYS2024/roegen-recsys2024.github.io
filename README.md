@@ -78,13 +78,13 @@
         list-style: disc;
         margin-left: 20px;
     }
-    .important-dates, .organizers, .program-committee {
+    .speakers, .important-dates, .organizers, .program-committee {
         background-color: #e8f0fe;
         padding: 10px;
         border-radius: 5px;
         margin: 10px 0;
     }
-    .important-dates h3, .organizers h3, .program-committee h3 {
+    .speakers h3, .important-dates h3, .organizers h3, .program-committee h3 {
         margin-top: 0;
     }
 }
@@ -97,6 +97,7 @@
     <a href="#submission-guidelines">Call for Papers</a>
     <a href="#important-dates">Important Dates</a>
     <a href="#program">Program</a>
+    <a href="#speakers">Featured Speakers</a>
 </div>
 
 <div class="header">
