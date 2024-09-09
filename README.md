@@ -174,7 +174,7 @@
         <a href="https://www.cs.toronto.edu/~cebly"><img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
-            <p>Senior Research Scientist at Google</p>
+            <p>Senior Research Scientist at Google, USA</p>
             <h4>Alignment in Recommendation Systems</h4>
         </div>
     </div>
