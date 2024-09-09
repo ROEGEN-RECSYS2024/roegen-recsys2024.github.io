@@ -178,16 +178,6 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo">
-        <div class="speaker-info">
-            <h3><a href="https://www.linkedin.com/in/jiaqizhai/">Jiaqi Zhai</a></h3>
-            <p>Senior Research Scientist at Meta, USA</p>
-            <h4>Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</h4>
-            <p>Recommendation systems enable billions of people to make informed decisions on a daily basis in every single online content and e-commerce platforms. The scale of such systems has increased by close to 10,000x in the last few years. Despite these being the largest software systems on the planet, most Deep Learning Recommendation Models (DLRMs) scale with data but fail to scale with compute.</p>
-            <p>We discuss alternative approaches vs classical DLRMs in this talk. We show that by reformulating the classical IR tasks, ranking and retrieval, as a generative modeling problem (“Generative Recommenders”), we can overcome expressiveness constraints in traditional sequential formulations. Together with new algorithms tailored for recommendation settings, we can improve offline and online metrics by double digit percentages vs SotA baselines while using significantly fewer features. To enable efficient scaling, we next present new algorithms that speed up training and inference by 10x-1000x, by leveraging inherent data redundancy in recommendations and algorithmically increasing sparsity.  The GR formulation and algorithms have improved offline and online metrics by double digit percentages vs SotA baselines on a large internet platform. More importantly, GRs overcome compute scaling bottlenecks in traditional DLRMs, and we observe scaling law in deployed billion-user scale recommendation systems for the first time, up to GPT-3/LLaMa-2 compute scale.</p>
-        </div>
-    </div>
-    <div class="speaker">
         <a href="https://www.cs.toronto.edu/~cebly"><img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
@@ -212,9 +202,17 @@
             <p>Recommender Systems (RecSys) have garnered significant attention from both industry and academia for decades. This interest has led to the development of various solutions, ranging from classic models to deep learning and, more recently, generative models. Typically, the evaluation of these models relies on predefined RecSys research problems and available offline datasets. However, the user perspective of RecSys is often underemphasized. In this talk, I will share my understanding as a user of several RecSys systems, discussing the RecSys research problem and the expected evaluations. I believe that considering the user perspective can significantly influence our model design and evaluation, especially in the era of RecSys powered by generative models.</p>
         </div>
     </div>
+    <div class="speaker">
+        <img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo">
+        <div class="speaker-info">
+            <h3><a href="https://www.linkedin.com/in/jiaqizhai/">Jiaqi Zhai</a></h3>
+            <p>Senior Research Scientist at Meta, USA</p>
+            <h4>Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</h4>
+            <p>Recommendation systems enable billions of people to make informed decisions on a daily basis in every single online content and e-commerce platforms. The scale of such systems has increased by close to 10,000x in the last few years. Despite these being the largest software systems on the planet, most Deep Learning Recommendation Models (DLRMs) scale with data but fail to scale with compute.</p>
+            <p>We discuss alternative approaches vs classical DLRMs in this talk. We show that by reformulating the classical IR tasks, ranking and retrieval, as a generative modeling problem (“Generative Recommenders”), we can overcome expressiveness constraints in traditional sequential formulations. Together with new algorithms tailored for recommendation settings, we can improve offline and online metrics by double digit percentages vs SotA baselines while using significantly fewer features. To enable efficient scaling, we next present new algorithms that speed up training and inference by 10x-1000x, by leveraging inherent data redundancy in recommendations and algorithmically increasing sparsity.  The GR formulation and algorithms have improved offline and online metrics by double digit percentages vs SotA baselines on a large internet platform. More importantly, GRs overcome compute scaling bottlenecks in traditional DLRMs, and we observe scaling law in deployed billion-user scale recommendation systems for the first time, up to GPT-3/LLaMa-2 compute scale.</p>
+        </div>
+    </div>
 </div>
-
-
     <div class="organizers">
         <h2>Workshop Organizers</h2>
         <ul>
