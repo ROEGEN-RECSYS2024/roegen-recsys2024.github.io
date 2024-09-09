@@ -176,7 +176,7 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="img/photo_jiaqiz_roegen_04162024" alt="Jiaqi Zhai" class="speaker-photo">
+        <img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo">
         <div class="speaker-info">
             <h3>Jiaqi Zhai</h3>
             <p>Senior Research Scientist at Meta, USA</p>
