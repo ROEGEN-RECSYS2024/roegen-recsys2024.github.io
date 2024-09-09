@@ -174,7 +174,7 @@
         <a href="https://mchen24.github.io"><img src="https://mchen24.github.io/minminc_profile.jpeg" alt="Minmin Chen" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://mchen24.github.io">Minmin Chen</a></h3>
-            <p>Principal research scientist at Google Deepmind, USA</p>
+            <p>Principal research scientist at Google DeepMind, USA</p>
         </div>
     </div>
     <div class="speaker">
@@ -199,15 +199,15 @@
         <a href="https://md.ekstrandom.net"><img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://md.ekstrandom.net">Michael Ekstrand</a></h3>
-            <p>Assistant professor at Drexel University, USA</p>
+            <p>Assistant Professor at Drexel University, USA</p>
             <h4>Responsible Recommendation in the Age of Generative AI</h4>
         </div>
     </div>
     <div class="speaker">
-        <a href="https://personal.ntu.edu.sg/axsun"><img src="https://personal.ntu.edu.sg/axsun/images/AixinWeb.jpg" alt="Aixin Sun" class="speaker-photo"></a>
+        <a href="https://personal.ntu.edu.sg/axsun"><img src="img/aixin-sun.jpg" alt="Aixin Sun" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://personal.ntu.edu.sg/axsun">Aixin Sun</a></h3>
-            <p>Assistant professor at Drexel University, USA</p>
+            <p>Associate Professor at Nanyang Technological University, Singapore</p>
             <h4>Understanding and Evaluating Recommender Systems from a User Perspective</h4>
             <p>Recommender Systems (RecSys) have garnered significant attention from both industry and academia for decades. This interest has led to the development of various solutions, ranging from classic models to deep learning and, more recently, generative models. Typically, the evaluation of these models relies on predefined RecSys research problems and available offline datasets. However, the user perspective of RecSys is often underemphasized. In this talk, I will share my understanding as a user of several RecSys systems, discussing the RecSys research problem and the expected evaluations. I believe that considering the user perspective can significantly influence our model design and evaluation, especially in the era of RecSys powered by generative models.</p>
         </div>
