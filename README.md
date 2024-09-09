@@ -18,9 +18,9 @@
 }
 
 .speaker-photo {
-    width: 150px; /* Adjust size as necessary */
-    height: 150px; /* Maintain aspect ratio */
-    border-radius: 75px; /* Circular photos */
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
     margin-right: 20px;
 }
 
