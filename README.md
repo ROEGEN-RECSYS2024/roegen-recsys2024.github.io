@@ -176,9 +176,9 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo">
+        <a href="https://www.linkedin.com/in/jiaqizhai/"><img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo"></a>
         <div class="speaker-info">
-            <h3>Jiaqi Zhai</h3>
+            <h3><a href="https://www.linkedin.com/in/jiaqizhai/">Jiaqi Zhai</a></h3>
             <p>Senior Research Scientist at Meta, USA</p>
             <h4>Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</h4>
             <p>Recommendation systems enable billions of people to make informed decisions on a daily basis in every single online content and e-commerce platforms. The scale of such systems has increased by close to 10,000x in the last few years. Despite these being the largest software systems on the planet, most Deep Learning Recommendation Models (DLRMs) scale with data but fail to scale with compute.</p>
