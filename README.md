@@ -171,18 +171,18 @@
 <div class="featured-speakers" id="speakers">
     <h2>Featured Speakers (in progress)</h2>
     <div class="speaker">
-        <a href="https://mchen24.github.io"><img src="https://mchen24.github.io/minminc_profile.jpeg" alt="Minmin Chen" class="speaker-photo"></a>
-        <div class="speaker-info">
-            <h3><a href="https://mchen24.github.io">Minmin Chen</a></h3>
-            <p>Principal research scientist at Google DeepMind, USA</p>
-        </div>
-    </div>
-    <div class="speaker">
         <a href="https://www.cs.toronto.edu/~cebly"><img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
             <p>Senior Research Scientist at Google</p>
             <h4>Alignment in Recommendation Systems</h4>
+        </div>
+    </div>
+    <div class="speaker">
+        <a href="https://mchen24.github.io"><img src="https://mchen24.github.io/minminc_profile.jpeg" alt="Minmin Chen" class="speaker-photo"></a>
+        <div class="speaker-info">
+            <h3><a href="https://mchen24.github.io">Minmin Chen</a></h3>
+            <p>Principal research scientist at Google DeepMind, USA</p>
         </div>
     </div>
     <div class="speaker">
