@@ -169,7 +169,7 @@
     </div>
 
 <div class="featured-speakers" id="speakers">
-    <h2>Featured Speakers</h2>
+    <h2>Featured Speakers (in progress)</h2>
     <div class="speaker">
         <a href="https://mchen24.github.io"><img src="https://mchen24.github.io/minminc_profile.jpeg" alt="Minmin Chen" class="speaker-photo"></a>
         <div class="speaker-info">
