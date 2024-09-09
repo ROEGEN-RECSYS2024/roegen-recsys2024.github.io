@@ -87,6 +87,11 @@
     .important-dates h3, .organizers h3, .program-committee h3 {
         margin-top: 0;
     }
+    a img {
+        display: inline-block;
+        width: 100%;
+        height: auto;
+    }
 </style>
 </head>
 <body>
@@ -176,7 +181,7 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo">
+        <a href="https://www.linkedin.com/in/jiaqizhai"><img src="img/photo_jiaqiz_roegen_04162024.jpg" alt="Jiaqi Zhai" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://www.linkedin.com/in/jiaqizhai/">Jiaqi Zhai</a></h3>
             <p>Senior Research Scientist at Meta, USA</p>
