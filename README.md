@@ -194,9 +194,9 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo">
+        <a href="https://md.ekstrandom.net"><img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo"></a>
         <div class="speaker-info">
-            <h3>Michael Ekstrand</h3>
+            <h3><a href="https://md.ekstrandom.net">Michael Ekstrand</a></h3>
             <p>Assistant professor at Drexel University, USA</p>
             <h4>Responsible Recommendation in the Age of Generative AI</h4>
         </div>
