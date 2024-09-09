@@ -22,7 +22,6 @@
     height: 150px; /* Maintain aspect ratio */
     border-radius: 75px; /* Circular photos */
     margin-right: 20px;
-    display: block;
 }
 
 .speaker-info {
@@ -88,11 +87,10 @@
     .important-dates h3, .organizers h3, .program-committee h3 {
         margin-top: 0;
     }
-    a img {
-        display: inline-block;
-        width: 100%;
-        height: auto;
-    }
+    a img.speaker-photo {
+    width: 150px !important;
+    height: auto;
+}
 </style>
 </head>
 <body>
