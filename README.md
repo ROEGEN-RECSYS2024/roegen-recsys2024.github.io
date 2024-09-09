@@ -176,11 +176,13 @@
         </div>
     </div>
     <div class="speaker">
-        <img src="path_to_jiaqi_zhai.jpg" alt="Jiaqi Zhai" class="speaker-photo">
+        <img src="img/photo_jiaqiz_roegen_04162024" alt="Jiaqi Zhai" class="speaker-photo">
         <div class="speaker-info">
             <h3>Jiaqi Zhai</h3>
             <p>Senior Research Scientist at Meta, USA</p>
-            <h4>Actions Speak Louder than Words</h4>
+            <h4>Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</h4>
+            <p>Recommendation systems enable billions of people to make informed decisions on a daily basis in every single online content and e-commerce platforms. The scale of such systems has increased by close to 10,000x in the last few years. Despite these being the largest software systems on the planet, most Deep Learning Recommendation Models (DLRMs) scale with data but fail to scale with compute.</p>
+            <p>We discuss alternative approaches vs classical DLRMs in this talk. We show that by reformulating the classical IR tasks, ranking and retrieval, as a generative modeling problem (“Generative Recommenders”), we can overcome expressiveness constraints in traditional sequential formulations. Together with new algorithms tailored for recommendation settings, we can improve offline and online metrics by double digit percentages vs SotA baselines while using significantly fewer features. To enable efficient scaling, we next present new algorithms that speed up training and inference by 10x-1000x, by leveraging inherent data redundancy in recommendations and algorithmically increasing sparsity.  The GR formulation and algorithms have improved offline and online metrics by double digit percentages vs SotA baselines on a large internet platform. More importantly, GRs overcome compute scaling bottlenecks in traditional DLRMs, and we observe scaling law in deployed billion-user scale recommendation systems for the first time, up to GPT-3/LLaMa-2 compute scale.</p>
         </div>
     </div>
     <div class="speaker">
