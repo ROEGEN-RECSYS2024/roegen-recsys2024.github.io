@@ -204,7 +204,7 @@
         </div>
     </div>
     <div class="speaker">
-        <a href="https://personal.ntu.edu.sg/axsun"><img src="img/aixin-sun.jpg" alt="Aixin Sun" class="speaker-photo"></a>
+        <img src="img/aixin-sun.jpg" alt="Aixin Sun" class="speaker-photo">
         <div class="speaker-info">
             <h3><a href="https://personal.ntu.edu.sg/axsun">Aixin Sun</a></h3>
             <p>Associate Professor at Nanyang Technological University, Singapore</p>
