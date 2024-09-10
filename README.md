@@ -162,8 +162,8 @@
         <h2>Important Dates</h2>
         <ul>
             <li><b>Submission Deadline:</b> <del><b>September 5, 2024</b></del> <span style="color:red;"><b>September 7, 2024 Final (AOE)</b></span></li>
-            <li><b>Notification of Acceptance:</b> September 13, 2024</li>
-            <li><b>Camera-Ready Submission:</b> September 20, 2024</li>
+            <li><b>Notification of Acceptance:</b> September 13, 2024</li> <span style="color:red;"><b>September 20, 2024</b></span></li>
+            <li><b>Camera-Ready Submission:</b> September 20, 2024</li> <span style="color:red;"><b>September 27, 2024</b></span></li>
             <li><b>Workshop Date:</b> October 18, 2024</li>
         </ul>
     </div>
