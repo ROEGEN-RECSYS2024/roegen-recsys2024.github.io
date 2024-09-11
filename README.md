@@ -162,8 +162,8 @@
         <h2>Important Dates</h2>
         <ul>
             <li><b>Submission Deadline:</b> <del><b>September 5, 2024</b></del> <span style="color:red;"><b>September 7, 2024 Final (AOE)</b></span></li>
-            <li><b>Notification of Acceptance:</b> September 13, 2024</li> <span style="color:red;"><b>September 20, 2024</b></span></li>
-            <li><b>Camera-Ready Submission:</b> September 20, 2024</li> <span style="color:red;"><b>September 27, 2024</b></span></li>
+            <li><b>Notification of Acceptance:</b> September 13, 2024 <span style="color:red;"><b>September 20, 2024</b></span></li>
+            <li><b>Camera-Ready Submission:</b> September 20, 2024 <span style="color:red;"><b>September 27, 2024</b></span></li>
             <li><b>Workshop Date:</b> October 18, 2024</li>
         </ul>
     </div>
@@ -174,7 +174,7 @@
         <a href="https://www.cs.toronto.edu/~cebly"><img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
-            <p>Senior Research Scientist at Google, USA</p>
+            <p>Principal Scientist at Google, USA</p>
             <h4>Alignment in Recommendation Systems</h4>
         </div>
     </div>
