@@ -179,13 +179,6 @@
         </div>
     </div>
     <div class="speaker">
-        <a href="https://mchen24.github.io"><img src="https://mchen24.github.io/minminc_profile.jpeg" alt="Minmin Chen" class="speaker-photo"></a>
-        <div class="speaker-info">
-            <h3><a href="https://mchen24.github.io">Minmin Chen</a></h3>
-            <p>Principal research scientist at Google DeepMind, USA</p>
-        </div>
-    </div>
-    <div class="speaker">
         <a href="https://md.ekstrandom.net"><img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://md.ekstrandom.net">Michael Ekstrand</a></h3>
@@ -200,6 +193,15 @@
             <p>Associate Professor at Nanyang Technological University, Singapore</p>
             <h4>Understanding and Evaluating Recommender Systems from a User Perspective</h4>
             <p>Recommender Systems (RecSys) have garnered significant attention from both industry and academia for decades. This interest has led to the development of various solutions, ranging from classic models to deep learning and, more recently, generative models. Typically, the evaluation of these models relies on predefined RecSys research problems and available offline datasets. However, the user perspective of RecSys is often underemphasized. In this talk, I will share my understanding as a user of several RecSys systems, discussing the RecSys research problem and the expected evaluations. I believe that considering the user perspective can significantly influence our model design and evaluation, especially in the era of RecSys powered by generative models.</p>
+        </div>
+    </div>
+    <div class="speaker">
+        <a href="https://sites.google.com/view/jianlingwang"><img src="img/jwang.jfif" alt="Jianling Wang" class="speaker-photo"></a>
+        <div class="speaker-info">
+            <h3><a href="https://sites.google.com/view/jianlingwang">Jianling Wang</a></h3>
+            <p>Senior Research Scientist at Google DeepMind, USA</p>
+            <h4>When LLMs Meet Recommendations: A Scalable Hybrid Approach</h4>
+            <p>While LLMs’ reasoning and generalization capabilities can aid higher level user understanding and longer term planning for recommendations, directly applying them to industrial recommendation systems have been shown challenging. The talk will cover our recent work on a hybrid approach to combine LLMs and classic recommendation models, and study its effectiveness for a challenging recommendation task on user exploration.</p>
         </div>
     </div>
     <div class="speaker">
