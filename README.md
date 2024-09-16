@@ -196,7 +196,7 @@
         </div>
     </div>
     <div class="speaker">
-        <a href="https://sites.google.com/view/jianlingwang"><img src="img/jianling-wang.jfif" alt="Jianling Wang" class="speaker-photo"></a>
+        <img src="img/jianling-wang.jfif" alt="Jianling Wang" class="speaker-photo">
         <div class="speaker-info">
             <h3><a href="https://sites.google.com/view/jianlingwang">Jianling Wang</a></h3>
             <p>Senior Research Scientist at Google DeepMind, USA</p>
