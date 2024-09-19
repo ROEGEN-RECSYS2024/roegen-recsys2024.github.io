@@ -179,7 +179,7 @@
         </div>
     </div>
     <div class="speaker">
-        <a href="https://md.ekstrandom.net"><img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo"></a>
+        <img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo">
         <div class="speaker-info">
             <h3><a href="https://md.ekstrandom.net">Michael Ekstrand</a></h3>
             <p>Assistant Professor at Drexel University, USA</p>
