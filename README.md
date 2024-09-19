@@ -175,17 +175,17 @@
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
             <p>Principal Scientist at Google, USA</p>
-            <h4>Alignment in Recommendation Systems</h4>
         </div>
+        <h4>Alignment in Recommendation Systems</h4>
     </div>
     <div class="speaker">
-        <img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo">
+        <a href="https://md.ekstrandom.net"><img src="https://md.ekstrandom.net/images/me/ekstrand-2022.jpg" alt="Michael Ekstrand" class="speaker-photo"></a>
         <div class="speaker-info">
             <h3><a href="https://md.ekstrandom.net">Michael Ekstrand</a></h3>
             <p>Assistant Professor at Drexel University, USA</p>
-            <h4>Responsible Recommendation in the Age of Generative AI</h4>
-            <p>Generative AI is bringing significant upheaval to how we think about and build recommender systems, both in the underlying recommendation techniques and in the design of surrounding applications and user experiences, with potentially profound impact on the social, ethical, and humanitarian impacts of recommendation. Some concepts developed for responsible recommendation, retrieval, and AI can be applied to generative recommendation, while others are substantially complicated or hindered by the significant changes in the relationships between users, creators, items, and platforms that generative AI brings. In this talk, I will argue that thinking clearly and explicitly about the underlying social, legal, and moral principles that responsible recommendation efforts seek to advance will provide guidance for thinking about how best to apply and revise impact concerns in the face of current and future changes to recommendation paradigms and applications.</p>
         </div>
+        <h4>Responsible Recommendation in the Age of Generative AI</h4>
+        <p>Generative AI is bringing significant upheaval to how we think about and build recommender systems, both in the underlying recommendation techniques and in the design of surrounding applications and user experiences, with potentially profound impact on the social, ethical, and humanitarian impacts of recommendation. Some concepts developed for responsible recommendation, retrieval, and AI can be applied to generative recommendation, while others are substantially complicated or hindered by the significant changes in the relationships between users, creators, items, and platforms that generative AI brings. In this talk, I will argue that thinking clearly and explicitly about the underlying social, legal, and moral principles that responsible recommendation efforts seek to advance will provide guidance for thinking about how best to apply and revise impact concerns in the face of current and future changes to recommendation paradigms and applications.</p>
     </div>
     <div class="speaker">
         <img src="img/aixin-sun.jpg" alt="Aixin Sun" class="speaker-photo">
