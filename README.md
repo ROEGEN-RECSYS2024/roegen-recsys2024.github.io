@@ -102,7 +102,7 @@
 
 <div class="header">
     <h1>The 1st Workshop on Risks, Opportunities, and Evaluation of Generative Models in Recommender Systems (ROEGEN@RECSYS'24)</h1>
-    <em>Colocated with <a href="https://recsys.acm.org/recsys24">ACM Conference on Recommender Systems</a> in Bari, Italy in October 2024</em>
+    <em>Colocated with <a href="https://recsys.acm.org/recsys24" style="color: white;">ACM Conference on Recommender Systems</a> in Bari, Italy in October 2024</em>
 </div>
 
 <div class="content" id="home">
