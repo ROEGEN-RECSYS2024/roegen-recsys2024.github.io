@@ -169,7 +169,7 @@
     </div>
 
 <div class="featured-speakers" id="speakers">
-    <h2>Featured Speakers (in progress)</h2>
+    <h2>Featured Speakers</h2>
     <div class="speaker">
         <img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo">
         <div class="speaker-info">
