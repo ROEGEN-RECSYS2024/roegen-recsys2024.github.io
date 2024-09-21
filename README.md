@@ -171,7 +171,7 @@
 <div class="featured-speakers" id="speakers">
     <h2>Featured Speakers (in progress)</h2>
     <div class="speaker">
-        <a href="https://www.cs.toronto.edu/~cebly"><img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo"></a>
+        <img src="img/craig-boutilier.jfif" alt="Craig Boutilier" class="speaker-photo">
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
             <p>Principal Scientist at Google, USA</p>
