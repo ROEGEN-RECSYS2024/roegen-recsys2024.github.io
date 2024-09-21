@@ -175,7 +175,8 @@
         <div class="speaker-info">
             <h3><a href="https://www.cs.toronto.edu/~cebly">Craig Boutilier</a></h3>
             <p>Principal Scientist at Google, USA</p>
-            <h4>Alignment in Recommendation Systems</h4>
+            <h4>Can Generative Models Improve Recommender Systems? Three Useful Notions of Alignment to Help with the Task</h4>
+            <p>Alignment is a broad notion that is often interpreted in various ways in the context of generative models (GenAI). This is due, in large part, to the staggering range of uses to which GenAI can be put. The application of Gen to recommender systems is no different: the variety of ways GenAI can be employed requires diverse perspectives on alignment. In this talk, I outline three uses of GenAI in recommenders that require distinct formulations of alignment: (a) GenAI in multi-modal, interactive recommenders; (b) GenAI for user simulation in recommenders; and (c) GenAI for filling in “content gaps,” i.e., generating novel items to better match the preferences of a user population. I briefly describe some work that tackles these three use cases (to varying degrees), and outline several significant research challenges that must be addressed to better exploit GenAI in the development of recommenders.</p>
         </div>
     </div>
     <div class="speaker">
