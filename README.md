@@ -177,7 +177,7 @@
           </tr>
           <tr>
             <td>09:00-09:45</td>
-            <td>Invited Talk – Michael Ekstrand (Drexel University): Responsible Recommendation in the Age of Generative AI</td>
+            <td>Invited Talk – Michael Ekstrand (Drexel University): <i>Responsible Recommendation in the Age of Generative AI</i></td>
           </tr>
           <tr>
             <td>09:45-10:30</td>
@@ -198,11 +198,11 @@
           </tr>
           <tr>
             <td>11:00-11:45</td>
-            <td>Invited Talk – Craig Boutilier (Google Research): Can Generative Models Improve Recommender Systems? Three Useful Notions of Alignment to Help with the Task</td>
+            <td>Invited Talk – Craig Boutilier (Google Research): <i>Can Generative Models Improve Recommender Systems? Three Useful Notions of Alignment to Help with the Task</i></td>
           </tr>
           <tr>
             <td>11:45-12:30</td>
-            <td>Invited Talk – Jianling Wang (Google DeepMind): When LLMs Meet Recommendations: A Scalable Hybrid Approach</td>
+            <td>Invited Talk – Jianling Wang (Google DeepMind): <i>When LLMs Meet Recommendations: A Scalable Hybrid Approach</i></td>
           </tr>
           <tr>
             <td>12:30-14:15</td>
@@ -210,7 +210,7 @@
           </tr>
           <tr>
             <td>14:15-15:00</td>
-            <td>Invited Talk – Aixin Sun (Nanyang Technological University): Understanding and Evaluating Recommender Systems from a User Perspective</td>
+            <td>Invited Talk – Aixin Sun (Nanyang Technological University): <i>Understanding and Evaluating Recommender Systems from a User Perspective</i></td>
           </tr>
           <tr>
             <td>15:00-15:45</td>
@@ -231,7 +231,7 @@
           </tr>
           <tr>
             <td>16:15-17:00</td>
-            <td>Invited Talk – Jiaqi Zhai (Meta): Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</td>
+            <td>Invited Talk – Jiaqi Zhai (Meta): <i>Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</i></td>
           </tr>
           <tr>
             <td>17:00-17:45</td>
