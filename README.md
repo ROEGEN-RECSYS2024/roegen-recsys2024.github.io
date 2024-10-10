@@ -168,6 +168,87 @@
         </ul>
     </div>
 
+<div class="program" id="program">
+    <h2>Program Schedule</h2>
+        <table border="1" cellpadding="5">
+          <tr>
+            <th>Time</th>
+            <th>Event</th>
+          </tr>
+          <tr>
+            <td>09:00-09:45</td>
+            <td>Invited Talk – Michael Ekstrand (Drexel University): Responsible Recommendation in the Age of Generative AI</td>
+          </tr>
+          <tr>
+            <td>09:45-10:30</td>
+            <td>
+              Contributed Paper Talks:
+              <ul>
+                <li>09:45 – <i>A Normative Framework for Benchmarking Consumer Fairness in Large Language Model Recommender Systems. Fatemeh Nazary, Yashar Deldjoo</i>.</li>
+                <li>10:00 – <i>A Prompting-Based Representation Learning Method for Recommendation with Large Language Models. Junyi Chen, Toyotaro Suzumura</i>.</li>
+                <li>10:15 – <i>Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation</i>. Qianfeng Wen, Yifan Liu, Joshua Zhang, George-Kirollos Saad, Anton Korikov, Yury Sambale, Scott Sanner.</li>
+                <li>10:20 – <i>Towards an explainable Argumentation-based Dialogue pipeline for Conversational Recommender Systems</i>. Marco Grazioso, Di Bratto Martina, Azzurra Mancini, Valentina Russo.</li>
+                <li>10:25 – <i>Cognitive Biases in Large Language Models for News Recommendation</i>. Yougang Lyu, Xiaoyu Zhang, Zhaochun Ren, Maarten de Rijke.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>10:30-11:00</td>
+            <td>Coffee Break</td>
+          </tr>
+          <tr>
+            <td>11:00-11:45</td>
+            <td>Invited Talk – Craig Boutilier (Google Research): Can Generative Models Improve Recommender Systems? Three Useful Notions of Alignment to Help with the Task</td>
+          </tr>
+          <tr>
+            <td>11:45-12:30</td>
+            <td>Invited Talk – Jianling Wang (Google DeepMind): When LLMs Meet Recommendations: A Scalable Hybrid Approach</td>
+          </tr>
+          <tr>
+            <td>12:30-14:15</td>
+            <td>Lunch Break</td>
+          </tr>
+          <tr>
+            <td>14:15-15:00</td>
+            <td>Invited Talk – Aixin Sun (Nanyang Technological University): Understanding and Evaluating Recommender Systems from a User Perspective</td>
+          </tr>
+          <tr>
+            <td>15:00-15:45</td>
+            <td>
+              Contributed Paper Talks:
+              <ul>
+                <li>15:00 – <i>Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations</i>. Kirandeep Kaur, Chirag Shah.</li>
+                <li>15:15 – <i>Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages</i>. Makbule Gulcin Ozsoy.</li>
+                <li>15:30 – <i>Towards Recommender Systems LLMs Playground (RecSysLLMsP): Exploring Polarization and Engagement in Simulated Social Networks</i>. Ljubisa Bojic, Zorica Dodevska, Yashar Deldjoo, Nenad Pantelic.</li>
+                <li>15:35 – <i>DaLimeLlama: a Persuasive XAI Framework for Learning-to-Rank Product Recommenders</i>. Sebastian Lubos, Seda Polat Erdeniz, Thi Ngoc Trang Tran, Alexander Felfernig, Ilhan Adiyaman, Tevfik Ince, Ata Gur.</li>
+                <li>15:40 – <i>Generative Diffusion Models for Sequential Recommendations</i>. Sharare Zolghadr, Ole Winther, Paul Jeha.</li>
+              </ul>
+            </td>
+          </tr>
+          <tr>
+            <td>15:45-16:15</td>
+            <td>Coffee Break</td>
+          </tr>
+          <tr>
+            <td>16:15-17:00</td>
+            <td>Invited Talk – Jiaqi Zhai (Meta): Actions Speak Louder than Words: Building the Next-Generation Recommendation Systems</td>
+          </tr>
+          <tr>
+            <td>17:00-17:45</td>
+            <td>
+              Contributed Paper Talks:
+              <ul>
+                <li>17:00 – <i>End-to-end Training for Recommendation with Language-based User Profiles</i>. Zhaolin Gao, Joyce Zhou, Yijia Dai, Thorsten Joachims.</li>
+                <li>17:15 – <i>Text2Tracks: Generative Track Retrieval for Prompt-based Music Recommendation</i>. Enrico Palumbo, Gustavo Penha, Andreas Damianou, Jose Luis Redondo-García, Timothy Christopher Heath, Alice Wang, Hugues Bouchard, Mounia Lalmas.</li>
+                <li>17:30 – <i>Music Recommendation through LLM Song Summary</i>. Noah Tekle, Alline Ayala, Jonathan Haile, Abdulla Alshabanah, Corey Baker, Murali Annavaram.</li>
+                <li>17:35 – <i>Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models</i>. Hamid Eghbalzadeh, Shuai Shao, Saurabh Verma, Venugopal Mani, Hongnan Wang, Jigar Madia, Sean Obryne, Vitali Karpinchyk, Andrey Malevich</i>.</li>
+                <li>17:40 – <i>On Data Contamination in Recommender Systems. Dario Garigliotti</i>.</li>
+              </ul>
+            </td>
+          </tr>
+        </table>
+</div>
+
 <div class="featured-speakers" id="speakers">
     <h2>Featured Speakers</h2>
     <div class="speaker">
