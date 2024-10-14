@@ -98,6 +98,7 @@
     <a href="#important-dates">Important Dates</a>
     <a href="#program">Program</a>
     <a href="#speakers">Featured Speakers</a>
+    <a href="#papers">Accepted Papers</a>
 </div>
 
 <div class="header">
@@ -333,6 +334,13 @@
         </ul>
     </div>
 </div>
-
+<div class="accepted-papers" id="papers">
+    <h2>Accepted Papers</h2>
+    <ul>
+        <li><a href="papers/enrico_text2tracks.pdf">"Text2Tracks: Generative Track Retrieval for Prompt-based Music
+            Recommendation", Enrico Palumbo, Gustavo Penha, Andreas Damianou, José Luis Redondo García,
+            Timothy Christopher Heath, Alice Wang, Hugues Bouchard and Mounia Lalmas</a></li>
+    </ul>
+</div>
 </body>
 </html>
