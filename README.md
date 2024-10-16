@@ -185,7 +185,7 @@
             <td>
               Contributed Paper Talks:
               <ul>
-                <li>09:45 – <i><a href="papers/recsys2024-workshops_paper_234.pdf">A Normative Framework for Benchmarking Consumer Fairness in Large Language Model Recommender Systems.</a></i> Fatemeh Nazary, Yashar Deldjoo.</li>
+                <li>09:45 – <i><a href="papers/recsys2024-workshops_paper_234.pdf">A Normative Framework for Benchmarking Consumer Fairness in Large Language Model Recommender Systems.</a></i> Yashar Deldjoo, Fatemeh Nazary.</li>
                 <li>10:00 – <i><a href="papers/recsys2024-workshops_paper_222.pdf">A Prompting-Based Representation Learning Method for Recommendation with Large Language Models</a></i>. Junyi Chen, Toyotaro Suzumura.</li>
                 <li>10:15 – <i><a href="papers/recsys2024-workshops_paper_224.pdf">Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation</a></i>. Qianfeng Wen, Yifan Liu, Joshua Zhang, George-Kirollos Saad, Anton Korikov, Yury Sambale, Scott Sanner.</li>
                 <li>10:20 – <i><a href="papers/recsys2024-workshops_paper_184.pdf">Towards an explainable Argumentation-based Dialogue pipeline for Conversational Recommender Systems</a></i>. Marco Grazioso, Di Bratto Martina, Azzurra Mancini, Valentina Russo.</li>
