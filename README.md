@@ -185,11 +185,11 @@
             <td>
               Contributed Paper Talks:
               <ul>
-                <li>09:45 – <i>A Normative Framework for Benchmarking Consumer Fairness in Large Language Model Recommender Systems. Fatemeh Nazary, Yashar Deldjoo</i>.</li>
-                <li>10:00 – <i>A Prompting-Based Representation Learning Method for Recommendation with Large Language Models. Junyi Chen, Toyotaro Suzumura</i>.</li>
-                <li>10:15 – <i>Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation</i>. Qianfeng Wen, Yifan Liu, Joshua Zhang, George-Kirollos Saad, Anton Korikov, Yury Sambale, Scott Sanner.</li>
-                <li>10:20 – <i>Towards an explainable Argumentation-based Dialogue pipeline for Conversational Recommender Systems</i>. Marco Grazioso, Di Bratto Martina, Azzurra Mancini, Valentina Russo.</li>
-                <li>10:25 – <i>Cognitive Biases in Large Language Models for News Recommendation</i>. Yougang Lyu, Xiaoyu Zhang, Zhaochun Ren, Maarten de Rijke.</li>
+                <li>09:45 – <i><a href="papers/recsys2024-workshops_paper_234.pdf">A Normative Framework for Benchmarking Consumer Fairness in Large Language Model Recommender Systems.</a></i> Fatemeh Nazary, Yashar Deldjoo.</li>
+                <li>10:00 – <i><a href="papers/recsys2024-workshops_paper_222.pdf">A Prompting-Based Representation Learning Method for Recommendation with Large Language Models</a></i>. Junyi Chen, Toyotaro Suzumura.</li>
+                <li>10:15 – <i><a href="papers/recsys2024-workshops_paper_224.pdf">Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation</a></i>. Qianfeng Wen, Yifan Liu, Joshua Zhang, George-Kirollos Saad, Anton Korikov, Yury Sambale, Scott Sanner.</li>
+                <li>10:20 – <i><a href="papers/recsys2024-workshops_paper_184.pdf">Towards an explainable Argumentation-based Dialogue pipeline for Conversational Recommender Systems</a></i>. Marco Grazioso, Di Bratto Martina, Azzurra Mancini, Valentina Russo.</li>
+                <li>10:25 – <i><a href="papers/recsys2024-workshops_paper_225.pdf">Cognitive Biases in Large Language Models for News Recommendation</a></i>. Yougang Lyu, Xiaoyu Zhang, Zhaochun Ren, Maarten de Rijke.</li>
               </ul>
             </td>
           </tr>
@@ -218,11 +218,11 @@
             <td>
               Contributed Paper Talks:
               <ul>
-                <li>15:00 – <i>Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations</i>. Kirandeep Kaur, Chirag Shah.</li>
-                <li>15:15 – <i>Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages</i>. Makbule Gulcin Ozsoy.</li>
-                <li>15:30 – <i>Towards Recommender Systems LLMs Playground (RecSysLLMsP): Exploring Polarization and Engagement in Simulated Social Networks</i>. Ljubisa Bojic, Zorica Dodevska, Yashar Deldjoo, Nenad Pantelic.</li>
-                <li>15:35 – <i>DaLimeLlama: a Persuasive XAI Framework for Learning-to-Rank Product Recommenders</i>. Sebastian Lubos, Seda Polat Erdeniz, Thi Ngoc Trang Tran, Alexander Felfernig, Ilhan Adiyaman, Tevfik Ince, Ata Gur.</li>
-                <li>15:40 – <i>Generative Diffusion Models for Sequential Recommendations</i>. Sharare Zolghadr, Ole Winther, Paul Jeha.</li>
+                <li>15:00 – <i><a href="papers/recsys2024-workshops_paper_70.pdf">Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations</a></i>. Kirandeep Kaur, Chirag Shah.</li>
+                <li>15:15 – <i><a href="papers/recsys2024-workshops_paper_144.pdf">Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages</a></i>. Makbule Gulcin Ozsoy.</li>
+                <li>15:30 – <i><a href="papers/recsys2024-workshops_paper_173.pdf">Towards Recommender Systems LLMs Playground (RecSysLLMsP): Exploring Polarization and Engagement in Simulated Social Networks</a></i>. Ljubisa Bojic, Zorica Dodevska, Yashar Deldjoo, Nenad Pantelic.</li>
+                <li>15:35 – <i><a href="papers/recsys2024-workshops_paper_220.pdf">DaLimeLlama: a Persuasive XAI Framework for Learning-to-Rank Product Recommenders</a></i>. Sebastian Lubos, Seda Polat Erdeniz, Thi Ngoc Trang Tran, Alexander Felfernig, Ilhan Adiyaman, Tevfik Ince, Ata Gur.</li>
+                <li>15:40 – <i><a href="papers/recsys2024-workshops_paper_145.pdf">Generative Diffusion Models for Sequential Recommendations</a></i>. Sharare Zolghadr, Ole Winther, Paul Jeha.</li>
               </ul>
             </td>
           </tr>
@@ -239,11 +239,11 @@
             <td>
               Contributed Paper Talks:
               <ul>
-                <li>17:00 – <i>End-to-end Training for Recommendation with Language-based User Profiles</i>. Zhaolin Gao, Joyce Zhou, Yijia Dai, Thorsten Joachims.</li>
-                <li>17:15 – <i>Text2Tracks: Generative Track Retrieval for Prompt-based Music Recommendation</i>. Enrico Palumbo, Gustavo Penha, Andreas Damianou, Jose Luis Redondo-García, Timothy Christopher Heath, Alice Wang, Hugues Bouchard, Mounia Lalmas.</li>
-                <li>17:30 – <i>Music Recommendation through LLM Song Summary</i>. Noah Tekle, Alline Ayala, Jonathan Haile, Abdulla Alshabanah, Corey Baker, Murali Annavaram.</li>
-                <li>17:35 – <i>Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models</i>. Hamid Eghbalzadeh, Shuai Shao, Saurabh Verma, Venugopal Mani, Hongnan Wang, Jigar Madia, Sean Obryne, Vitali Karpinchyk, Andrey Malevich</i>.</li>
-                <li>17:40 – <i>On Data Contamination in Recommender Systems. Dario Garigliotti</i>.</li>
+                <li>17:00 – <i><a href="papers/recsys2024-workshops_paper_204.pdf">End-to-end Training for Recommendation with Language-based User Profiles</a></i>. Zhaolin Gao, Joyce Zhou, Yijia Dai, Thorsten Joachims.</li>
+                <li>17:15 – <i><a href="papers/enrico_text2tracks.pdf">Text2Tracks: Generative Track Retrieval for Prompt-based Music Recommendation</a></i>. Enrico Palumbo, Gustavo Penha, Andreas Damianou, Jose Luis Redondo-García, Timothy Christopher Heath, Alice Wang, Hugues Bouchard, Mounia Lalmas.</li>
+                <li>17:30 – <i><a href="papers/recsys2024-workshops_paper_208.pdf">Music Recommendation through LLM Song Summary</a></i>. Noah Tekle, Alline Ayala, Jonathan Haile, Abdulla Alshabanah, Corey Baker, Murali Annavaram.</li>
+                <li>17:35 – <i><a href="papers/recsys2024-workshops_paper_223.pdf">Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models</a></i>. Hamid Eghbalzadeh, Shuai Shao, Saurabh Verma, Venugopal Mani, Hongnan Wang, Jigar Madia, Sean Obryne, Vitali Karpinchyk, Andrey Malevich.</li>
+                <li>17:40 – <i><a href="papers/recsys2024-workshops_paper_226.pdf">On Data Contamination in Recommender Systems. Dario Garigliotti</a></i>.</li>
               </ul>
             </td>
           </tr>
